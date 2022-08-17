@@ -11,7 +11,8 @@ About me :
 Im looking for a job where i can continue to develop mi skills and knowlegde and help me grow as a full-stack developer
 
 - 🔭 I’m currently looking for a job in IT
-- 👯 I’m have experience working on group and individual projects
+- 🔭 I Was a teaching assistant at a coding bootcamp from HENRY where i heavily developed my repertoire of soft skills 
+- 👯 I have experience working on group and individual projects
 - 📫 How to reach me: leandrobravo@gmail.com
 - ⚡ Technologies im familiar with:
       *Javascript

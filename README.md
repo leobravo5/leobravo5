@@ -15,12 +15,12 @@ Im looking for a job where i can continue to develop mi skills and knowlegde and
 - 👯 I have experience working on group and individual projects
 - 📫 How to reach me: leandrobravo@gmail.com
 - ⚡ Technologies im familiar with:
-      Javascript
-      |NodeJS
-      |HTML / CSS
-      |React / Redux
-      |Express
-      |Sequelize
-      |MySQL / PostgreSQL
-      |Dart / Flutter
+        Javascript
+      | NodeJS
+      | HTML / CSS
+      | React / Redux
+      | Express
+      | Sequelize
+      | MySQL / PostgreSQL
+      | Dart / Flutter
 
